@@ -70,7 +70,7 @@ Developed by:P Ritik Samuel
 Registration no:212221040138
 
 ## PROGRAM:
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
@@ -158,7 +158,7 @@ print(f"Input:{np.array([0, 0])}, Predicted: {predict_matrix(np.array([0, 0]), w
 print(f"Input:{np.array([0, 1])}, Predicted: {predict_matrix(np.array([0, 1]), w)}")
 print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w)}")
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
-
+```
 ## OUTPUT :
 
 <img width="924" alt="aids output 1" src="https://github.com/ritiksamuel/Experiment-5-Implementation-of-XOR-using-RBF/assets/130056055/5ca1686c-92fb-4326-9619-271297479412">
