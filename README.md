@@ -65,9 +65,11 @@ Each row of A (shape: (4, 2)) consists of
   edge joining 2nd node (peak2 output) to the output node
 
   bias edge
+```
+Developed by : P Ritik Samuel
 
-Developed by:P Ritik Samuel
-Registration no:212221040138
+Registration no : 212221040138
+```
 
 ## PROGRAM:
 ```
